@@ -1,0 +1,11 @@
+
+{
+    "host": "127.0.0.1", 
+    "user": "root", 
+    "password": "!Yossigri770", 
+    "database": "guydigital_dev",
+    "url": "http://localhost.tld:3000/",
+    "secure_token": false
+}
+ 
+
